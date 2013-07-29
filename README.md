@@ -1,22 +1,9 @@
-cs010_examples
+cs012_examples
 ==============
 
-The CS010(v) examples repository has pieces of code to utilize as teaching 
+The CS012(v) examples repository has pieces of code to utilize as teaching 
 supplements. Code may not be complete programs so it may require you to pull the
 pieces together into an actual program to execute it.
-
-The general breakdown of topics is:
-variables
-assignment
-arithmetic
-branches
-loops
-functions
-vectors
-strings
-input_output (getline / output operator / formatting)
-boolean_logic
-
 
 Once the workspace is created, you can utilize two terminal commands. The first
 will pull all new files or modifications and incorporate them into your
